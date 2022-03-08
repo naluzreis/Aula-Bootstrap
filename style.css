@@ -1,0 +1,42 @@
+.navbar{
+    background-color: #ffd9df;
+    font-size: 20px;
+}
+#Quem-sou{
+    text-align: center;
+    padding-top: 20px;
+    background-color: #fff7ec;
+}
+.imgqs{
+    border-radius: 500px;
+}
+.text{
+    text-align: justify;
+    text-align: center;
+    padding-bottom: 20px;
+}
+#devweb{
+    text-align: center;
+}
+.tittledev{
+    padding: 50px;
+    color: #10063d;
+}
+.image{
+    width: 100%;
+}
+.title{
+    padding: 30px;
+    color: #10063d;
+}
+.tittleprof{
+    padding: 40px;
+}
+.devtittle{
+    padding: 40px;
+}
+.utittle{
+    padding: 40px;
+    text-align: center;
+    color: #10063d;
+}
